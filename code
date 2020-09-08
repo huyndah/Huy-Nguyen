@@ -1,0 +1,7 @@
+  /* Reset Edge count for IcuConf_IcuChannel_IcuChannel_5 */
+  Icu_ResetEdgeCount(IcuConf_IcuChannel_IcuChannel_5);
+  #else
+  /* Disable Edge Counting for IcuConf_IcuChannel_IcuChannel_3 */
+  Icu_DisableEdgeCount(IcuConf_IcuChannel_IcuChannel_3);
+  /* Reset Edge count for IcuConf_IcuChannel_IcuChannel_3 */
+  Icu_ResetEdgeCount(IcuConf_IcuChannel_IcuChannel_3);
